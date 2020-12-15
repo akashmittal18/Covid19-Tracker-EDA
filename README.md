@@ -1,14 +1,8 @@
 # Covid-19
-[![License Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=true)](http://www.apache.org/licenses/LICENSE-2.0)
-
 
 A flutter application to track Covid-19 statistics. The data is fetched from [NovelCovid](https://github.com/NovelCOVID/API) API.
 
-You can download the apk here: [Covid-19](https://drive.google.com/open?id=1y-iucF3mHIvI4QOKd7e0DHJEenE7GNB5) or if you are sure 
-about your device architecture platform:
-- [arm64](https://drive.google.com/open?id=1dxYt2K-tD24f5jZVty0v-eJo_t5p28E-)
-- [armeabi](https://drive.google.com/open?id=1HmtinKFcL4fWPUjtTwDlBEQenTymFYXG)
-- [x86](https://drive.google.com/open?id=1_d8a6l1Mj7BVMBBQ3T4Xcb6R8DGSGS-8)
+You can download the apk here: [Covid-19](https://drive.google.com/open?id=1y-iucF3mHIvI4QOKd7e0DHJEenE7GNB5)
 
 ### Features
 - Flutter
